@@ -1,28 +1,28 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/dungcon567-ux/dungcon567-ux/main/name.svg" alt="Dũng Đỗ" />
-</h1>
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Xin chào 👋, I'm Dũng Đỗ! 
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
 
-## Hey! 👋
-I'm Dũng Đỗ, a student learning web development from Viet Nam.
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🌱 Currently learning HTML, CSS, JavaScript, Vue, PHP, Laravel
+<p>
+  <em>
+    Student learning Web Development 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+</p>
 
-- 👨‍💻 Working on school projects and web applications
+[![GitHub followers](https://img.shields.io/github/followers/dungcon567-ux?label=Follow&style=social)](https://github.com/dungcon567-ux)
+![](https://komarev.com/ghpvc/?username=dungcon567-ux&color=blue)
 
-- 🛒 Building e-commerce projects with PHP MVC/OOP and Laravel
+---
 
-- 🧪 Practicing CRUD, API, JSON Server, Vue Router, Axios and MySQL
+### 📫 Like to meet me?
 
-+ a lot more ;)
+I'm learning and building web projects. I like working with HTML, CSS, JavaScript, Vue, PHP, Laravel and MySQL.
 
-## Skills
-- 👨‍💻 HTML, CSS, JavaScript, PHP, SQL
-- ⚙️ Vue, Laravel, Bootstrap
-- 👁️ CSS, Bootstrap 5
-- 💽 MySQL, JSON Server
-+ a lot more :D
+👇 My GitHub profile:
 
-## Contact
-- [GitHub](https://github.com/dungcon567-ux)
-- [@dungcon567-ux](https://github.com/dungcon567-ux) on GitHub
-- [@dungcon567-ux](./) on Discord
+```bash
+github.com/dungcon567-ux
