@@ -1,99 +1,217 @@
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Xin chào 👋, I'm Dũng Đỗ! 
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
-
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p>
-  <em>
-    Student learning Web Development
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em>
-</p>
-
-[![GitHub followers](https://img.shields.io/github/followers/dungcon567-ux?label=Follow&style=social)](https://github.com/dungcon567-ux)
-![](https://komarev.com/ghpvc/?username=dungcon567-ux&color=blue)
-
----
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ### 📫 Like to meet me?
 
-I'm learning and building web projects. I like working with HTML, CSS, JavaScript, Vue, PHP, Laravel and MySQL.
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-👇 My GitHub profile:
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
 
 ```bash
-github.com/dungcon567-ux
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-const dungDo = {
-  name: "Dũng Đỗ",
-  location: "Viet Nam",
-  role: "Sinh viên đang học lập trình Web",
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-  languages: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "PHP",
-    "SQL"
-  ],
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const anmol = {
+  name: "Anmol Pratap Singh",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
   askMeAbout: [
-    "lập trình web",
-    "frontend",
-    "backend",
-    "CRUD",
-    "Vue",
-    "Laravel",
-    "PHP MVC/OOP",
-    "MySQL"
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design"
   ],
 
   technologies: {
     frontend: {
-      frameworks: ["Vue"],
-      styling: ["CSS", "Bootstrap 5"]
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
     },
 
     backend: {
-      php: ["PHP", "Laravel", "PHP MVC/OOP"]
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate",
+        "CloudWatch"
+      ],
+      gcp: [
+        "Compute Engine",
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Firestore",
+        "BigQuery"
+      ]
     },
 
     databases: {
-      relational: ["MySQL"],
-      mockApi: ["JSON Server"]
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"]
     },
 
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "Laragon",
-      "Postman"
+    realtimeAndAPIs: [
+      "REST APIs",
+      "WebSockets",
+      "Socket.IO"
     ],
 
-    learning: [
-      "Vue Router",
-      "Axios",
-      "Laravel Sanctum",
-      "REST API",
-      "CRUD"
-    ]
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
   },
 
-  currentFocus: "Học lập trình web và xây dựng các dự án trên trường",
-  funFact: "Tôi thích xây dựng website đơn giản, dễ nhìn và dễ sử dụng"
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: [
+      "event-driven",
+      "agentic systems",
+      "scalable SaaS"
+    ],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
 };
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m always learning and improving my coding skills.</b> 😊</em>
-Skills
-👨‍💻 HTML, CSS, JavaScript, PHP, SQL
-⚙️ Vue, Laravel, Bootstrap 5
-💽 MySQL, JSON Server
-🛠️ Git, GitHub, VS Code, Laragon, Postman
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,git,github,vscode" /> </p>
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dungcon567-ux&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungcon567-ux&layout=compact&theme=tokyonight" /> </p>
-GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=dungcon567-ux&theme=tokyonight" /> </p>
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C337%20hrs%2041%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-781-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.26%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 391.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 597 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1672 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌆 Daytime                3723 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+🌃 Evening                3534 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌙 Night                  1494 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Tuesday                  1524 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Wednesday                1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 1212 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Friday                   1121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Saturday                 1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   2397 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               12 hrs 4 mins       █████████████████████░░░░   83.64 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+
+🔥 Editors: 
+WebStorm                 8 hrs 29 mins       ███████████████░░░░░░░░░░   58.87 % 
+Unknown Editor           5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
+DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+💻 Operating System: 
+Mac                      14 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+
+
+
+
+ Last Updated on 05/05/2026 01:13:24 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
