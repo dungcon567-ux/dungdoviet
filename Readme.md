@@ -1,29 +1,39 @@
+<h1 align="center">Hi 👋, I'm Dũng</h1>
+<h3 align="center">A student learning Web Development</h3>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1>
+---
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+### 👨‍💻 About Me
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue, PHP, Laravel**
+- 💻 I’m working on school projects and web applications
+- 📫 Contact me: **your-email@gmail.com**
+- ⚡ Fun fact: I like building clean and simple websites
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+---
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+### 🛠️ Languages and Tools
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,git,github,vscode" />
+</p>
 
-+ a lot more ;)
+---
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+### 📊 GitHub Stats
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dungcon567-ux&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungcon567-ux&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dungcon567-ux&theme=tokyonight" />
+</p>
