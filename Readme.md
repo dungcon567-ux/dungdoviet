@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dũng</h1>
+<h1 align="center">Hi 👋, I'm Dũng Đỗ</h1>
 <h3 align="center">A student learning Web Development</h3>
 
 ---
