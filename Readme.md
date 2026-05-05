@@ -21,14 +21,6 @@
 ### 📫 Like to meet me?
 
 I'm learning and building web projects. I like working with HTML, CSS, JavaScript, Vue, PHP, Laravel and MySQL.
-
-👇 My GitHub profile:
-
-```bash
-github.com/dungcon567-ux
-
-
-```javascript
 const dungDo = {
   name: "Dũng Đỗ",
   location: "Viet Nam",
@@ -88,4 +80,8 @@ const dungDo = {
   currentFocus: "Học lập trình web và xây dựng các dự án trên trường",
   funFact: "Tôi thích xây dựng website đơn giản, dễ nhìn và dễ sử dụng"
 };
-```
+
+👇 My GitHub profile:
+
+```bash
+github.com/dungcon567-ux
