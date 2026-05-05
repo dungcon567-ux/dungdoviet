@@ -26,3 +26,66 @@ I'm learning and building web projects. I like working with HTML, CSS, JavaScrip
 
 ```bash
 github.com/dungcon567-ux
+
+
+```javascript
+const dungDo = {
+  name: "Dũng Đỗ",
+  location: "Viet Nam",
+  role: "Sinh viên đang học lập trình Web",
+
+  languages: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "SQL"
+  ],
+
+  askMeAbout: [
+    "lập trình web",
+    "frontend",
+    "backend",
+    "CRUD",
+    "Vue",
+    "Laravel",
+    "PHP MVC/OOP",
+    "MySQL"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["Vue"],
+      styling: ["CSS", "Bootstrap 5"]
+    },
+
+    backend: {
+      php: ["PHP", "Laravel", "PHP MVC/OOP"]
+    },
+
+    databases: {
+      relational: ["MySQL"],
+      mockApi: ["JSON Server"]
+    },
+
+    tools: [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Laragon",
+      "Postman"
+    ],
+
+    learning: [
+      "Vue Router",
+      "Axios",
+      "Laravel Sanctum",
+      "REST API",
+      "CRUD"
+    ]
+  },
+
+  currentFocus: "Học lập trình web và xây dựng các dự án trên trường",
+  funFact: "Tôi thích xây dựng website đơn giản, dễ nhìn và dễ sử dụng"
+};
+```
