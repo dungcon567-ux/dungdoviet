@@ -1,39 +1,28 @@
-<h1 align="center">Hi 👋, I'm Dũng Đỗ</h1>
-<h3 align="center">A student learning Web Development</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/dungcon567-ux/dungcon567-ux/main/name.svg" alt="Dũng Đỗ" />
+</h1>
 
----
+## Hey! 👋
+I'm Dũng Đỗ, a student learning web development from Viet Nam.
 
-### 👨‍💻 About Me
+- 🌱 Currently learning HTML, CSS, JavaScript, Vue, PHP, Laravel
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue, PHP, Laravel**
-- 💻 I’m working on school projects and web applications
-- 📫 Contact me: **your-email@gmail.com**
-- ⚡ Fun fact: I like building clean and simple websites
+- 👨‍💻 Working on school projects and web applications
 
----
+- 🛒 Building e-commerce projects with PHP MVC/OOP and Laravel
 
-### 🛠️ Languages and Tools
+- 🧪 Practicing CRUD, API, JSON Server, Vue Router, Axios and MySQL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,git,github,vscode" />
-</p>
++ a lot more ;)
 
----
+## Skills
+- 👨‍💻 HTML, CSS, JavaScript, PHP, SQL
+- ⚙️ Vue, Laravel, Bootstrap
+- 👁️ CSS, Bootstrap 5
+- 💽 MySQL, JSON Server
++ a lot more :D
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungcon567-ux&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungcon567-ux&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dungcon567-ux&theme=tokyonight" />
-</p>
+## Contact
+- [GitHub](https://github.com/dungcon567-ux)
+- [@dungcon567-ux](https://github.com/dungcon567-ux) on GitHub
+- [@dungcon567-ux](./) on Discord
